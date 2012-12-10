@@ -8,7 +8,7 @@ In order to install the plugin, simply run: `bin/plugin -install elasticsearch/e
     ----------------------------------------
     | JavaScript Plugin | ElasticSearch    |
     ----------------------------------------
-    | master            | 0.20             |
+    | master            | ?                |
     ----------------------------------------
 
 License
